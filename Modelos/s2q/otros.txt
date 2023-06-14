@@ -1,2 +1,0 @@
-num_decoder_tokens: 109
-max_decoder_seq_length: 252
