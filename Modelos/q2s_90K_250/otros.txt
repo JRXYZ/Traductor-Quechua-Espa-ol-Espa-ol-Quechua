@@ -1,0 +1,4 @@
+num_encoder_tokens = 103
+num_decoder_tokens = 111
+max_encoder_seq_length = 40
+max_decoder_seq_length = 42
